@@ -15,7 +15,7 @@ Simple command-line interface with no external dependencies.
 
 ⚡ How to Use
 1. Clone or Download the Project
-git clone https://github.com/your-username/sudoku-solver.git
+git clone https://github.com/jk9054/sudoku-solver.git
 cd sudoku-solver
 
 2. Compile the Program
